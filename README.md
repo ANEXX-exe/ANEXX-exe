@@ -1,12 +1,4 @@
-Hi there, I'm anexx 👋
-
-## 🚀 About Me
-- 💻 Web & Game Developer
-- 🌱 Currently learning and improving my skills
-- 🛠 Love building websites and small games
-- 📫 Reach me on Discord
-
----
+##Hi there, I'm anexx 👋
 
 ## 🛠 Tech Stack
 
@@ -17,10 +9,11 @@ Hi there, I'm anexx 👋
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anexx&show_icons=true&theme=dark)
+## 🚀 About Me
+- 💻 Web & Game Developer
+- 🌱 Currently learning and improving my skills
+- 🛠 Love building websites and small games
+- 📫 Reach me on Discord
 
 ---
 
