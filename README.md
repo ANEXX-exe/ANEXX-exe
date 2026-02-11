@@ -13,7 +13,9 @@
 - 💻 Web & Game Developer
 - 🌱 Currently learning and improving my skills
 - 🛠 Love building websites and small games
-- 📫 Reach me on Discord
+-## 📫 How to reach me:
+- 💬 [Discord Server](https://discord.com/invite/9HeTbXAS7N)
+
 
 ---
 
